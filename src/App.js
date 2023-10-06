@@ -1,8 +1,10 @@
-import React from 'react'
+import React from 'react';
 
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+        <h1>GPT-3</h1>
+    </div>
   )
 }
 
