@@ -1,4 +1,4 @@
-CTAimport React from 'react';
+import React from 'react';
 import './cta.css';
 
 const CTA = () => {
