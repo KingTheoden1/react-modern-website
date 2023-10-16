@@ -9,7 +9,7 @@ const Blog = () => {
       <div className="gpt3__blog-heading">
         <h1 className="gradient__text">A lot is happening, We are blogging about it.</h1>
       </div>
-      <div className="gpt3__container">
+      <div className="gpt3__blog-container">
         <div className="gpt3__blog-container_groupA">
           <Article imgUrl={blog01} date='Oct 16, 2023' title='GPT-3 and OpenAI is the future. Let us explore how that us.'/>
         </div>
