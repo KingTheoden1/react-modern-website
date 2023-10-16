@@ -4,7 +4,7 @@ import { Feature } from '../../components';
 
 const WhatGPT3 = () => {
   return (
-    <div className="gpt3__whatgpt3 section__margin" id='whpt3'>
+    <div className="gpt3__whatgpt3 section__margin" id='wgpt3'>
       <div className="gpt3__whatgpt3-feature">
         <Feature title='What is GPT-3' text='Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim, asperiores quisquam. Dolor, vel natus ex asperiores delectus veniam odit tempora officia. Magnam rerum, mollitia delectus eum quaerat tempore nesciunt esse!'/>
       </div>
