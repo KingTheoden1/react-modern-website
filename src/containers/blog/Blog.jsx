@@ -11,13 +11,13 @@ const Blog = () => {
       </div>
       <div className="gpt3__blog-container">
         <div className="gpt3__blog-container_groupA">
-          <Article imgUrl={blog01} date='Oct 16, 2023' title='GPT-3 and OpenAI is the future. Let us explore how that us.'/>
+          <Article imgUrl={blog01} date='Oct 16, 2023' title='GPT-3 and OpenAI is the future. Let us explore how it is.'/>
         </div>
         <div className="gpt3__blog-container_groupB">
-          <Article imgUrl={blog02} date='Oct 16, 2023' title='GPT-3 and OpenAI is the future. Let us explore how that us.'/>
-          <Article imgUrl={blog03} date='Oct 16, 2023' title='GPT-3 and OpenAI is the future. Let us explore how that us.'/>
-          <Article imgUrl={blog04} date='Oct 16, 2023' title='GPT-3 and OpenAI is the future. Let us explore how that us.'/>
-          <Article imgUrl={blog05} date='Oct 16, 2023' title='GPT-3 and OpenAI is the future. Let us explore how that us.'/>
+          <Article imgUrl={blog02} date='Oct 16, 2023' title='GPT-3 and OpenAI is the future. Let us explore how it is.'/>
+          <Article imgUrl={blog03} date='Oct 16, 2023' title='GPT-3 and OpenAI is the future. Let us explore how it is.'/>
+          <Article imgUrl={blog04} date='Oct 16, 2023' title='GPT-3 and OpenAI is the future. Let us explore how it is.'/>
+          <Article imgUrl={blog05} date='Oct 16, 2023' title='GPT-3 and OpenAI is the future. Let us explore how it is.'/>
         </div>
       </div>
     </div>
