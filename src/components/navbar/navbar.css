@@ -8,7 +8,7 @@
 .gpt3__navbar-links {
     flex: 1;
     display: flex;
-    justify-content: start;
+    justify-content: flex-start;
     align-items: center;
 }
 
@@ -28,7 +28,7 @@
 
 .gpt3__navbar-sign {
     display: flex;
-    justify-content: end;
+    justify-content: flex-end;
     align-items: center;
 }
 
@@ -76,7 +76,7 @@
     align-items: flex-end;
     flex-direction: column;
 
-    text-align: end;
+    text-align: right;
     background: var(--color-footer);
     padding: 2rem;
     position: absolute;
