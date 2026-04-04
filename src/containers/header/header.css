@@ -48,10 +48,14 @@
     background: var(--color-footer);
     border: 2px solid var(--color-footer);
     padding: 0 1rem;
-    outline: none;
     color: #fff;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
+}
+
+.gpt3__header-content__input input:focus-visible {
+    outline: 2px solid #FF4820;
+    outline-offset: -2px;
 }
 
 .gpt3__header-content__input button {
@@ -65,12 +69,16 @@
     background: #FF4820;
     color: #fff;
     cursor: pointer;
-    outline: none;
     padding: 0 1rem;
     border: none;
 
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
+}
+
+.gpt3__header-content__input button:focus-visible {
+    outline: 2px solid #fff;
+    outline-offset: 2px;
 }
 
 .gpt3__header-content__people {
